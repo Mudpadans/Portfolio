@@ -1,6 +1,10 @@
+html, body {
+  height: 100%;
+  background-image: url("../src/imgs/MountainImg.png");
+}
+
 .App {
   text-align: center;
-  background-image: url();
 }
 
 .App-logo {
